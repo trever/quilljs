@@ -19,7 +19,7 @@ Template.editor.rendered = ->
     theme: "snow"
   )
 ```
-For more examples, visit [Quill's homepage](quilljs.com).
+For more examples, visit [Quill's homepage](http://quilljs.com).
 
 # Note
 This package is a simple wrapper for the Quill library and does not offer concurrency.
